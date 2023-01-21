@@ -49,6 +49,7 @@ By providing different controllers to its *CoordinatingControllers* array, it ta
 This script is responsible to provide a grounding transform the LegConstrainController. Grounding can be achieved either by [raycasting](/Assets/Scripts/ProceduralAnimation/RaycastGrounding.cs) or [spherecasting](/Assets/Scripts/ProceduralAnimation/SphereCastGrounding.cs) from an arbitrary point above the desired leg foot placement.
 
 ![AnimationTest](https://user-images.githubusercontent.com/43366313/213876062-58ad07fe-7b93-4e00-ba98-585522eb3660.gif)<br>*Animation Test*
+
 ![FootRebalance](https://user-images.githubusercontent.com/43366313/213876059-b54a2c13-4e15-40ce-9519-6dd2ffc51a95.gif)<br>*Foot Rebalancing*
 
 ## **Utility Scripts**
